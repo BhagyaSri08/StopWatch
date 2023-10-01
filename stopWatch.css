@@ -38,6 +38,7 @@ h2{
 button{
     margin: 10px 10px;
     border: none;
+    cursor:pointer;
     /* padding: 10px; */
 
 }
